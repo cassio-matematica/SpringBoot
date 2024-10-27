@@ -1,6 +1,6 @@
 # 🚀 Spring Boot Projects Repository
 
-![Spring Boot Logo](spring-boot-logo.png)
+
 
 ## 🎉 Introdução
 
