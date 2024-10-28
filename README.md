@@ -81,11 +81,7 @@ Sinta-se à vontade para contribuir com novos projetos ou melhorias para os exis
 Se você tiver alguma dúvida ou sugestão, entre em contato comigo aqui.
 
 
-### Instruções para Usar
 
-1. **Substitua `path_to_your_animation.gif`**: Coloque o caminho correto para o seu GIF ou vídeo na seção de demonstração.
-2. **Atualize os detalhes**: Adapte as descrições dos projetos, links úteis e informações de contato conforme necessário.
-3. **Adicione mais projetos**: Sinta-se à vontade para incluir mais detalhes ou projetos conforme necessário.
 
 Esse formato deve ajudar a criar um README atraente e informativo para o seu repositório de projetos com Spring Boot!
 
