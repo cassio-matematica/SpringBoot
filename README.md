@@ -18,6 +18,9 @@ Para começar a usar o Spring Boot, você precisa ter o Java instalado (JDK 11 o
 
 ## 🚀 Projetos em Destaque
 
+### 0. O Famoso Hello, World! Não vá para os outros antes de executar este!
+Inicie sua jornada com Spring Boot se livrando da maldição!
+
 ### 1. API de Gerenciamento de Tarefas
 Uma API REST para gerenciar tarefas, incluindo operações CRUD e autenticação de usuários.
 
