@@ -80,6 +80,6 @@ Veja como os projetos funcionam na prática! Abaixo está uma animação (GIF ou
 
 Sinta-se à vontade para contribuir com novos projetos ou melhorias para os existentes! Crie uma issue ou envie um pull request.
 📬 Contato
-
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo aqui.
+Para dúvidas, sugestões ou colaborações, entre em contato comigo:
+<p align="center"> <a href="mailto:cassio.matematica@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://wa.me/5511965133956"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> <a href="https://www.linkedin.com/in/cassio-matematica"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
 
