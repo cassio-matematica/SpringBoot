@@ -83,9 +83,3 @@ Sinta-se à vontade para contribuir com novos projetos ou melhorias para os exis
 
 Se você tiver alguma dúvida ou sugestão, entre em contato comigo aqui.
 
-
-
-
-Esse formato deve ajudar a criar um README atraente e informativo para o seu repositório de projetos com Spring Boot!
-
-
