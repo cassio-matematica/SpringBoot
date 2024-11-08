@@ -1,7 +1,6 @@
 
 ### 3. **README para o Projeto FormularioSpring**:
 
-```markdown
 # FormularioSpring
 
 Este projeto demonstra como construir um formulário simples em uma aplicação Spring Boot. O foco é no envio de dados do formulário e validação de entradas.
